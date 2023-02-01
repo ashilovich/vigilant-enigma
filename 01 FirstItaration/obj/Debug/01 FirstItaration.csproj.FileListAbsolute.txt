@@ -1,0 +1,8 @@
+D:\Андрей\45 BSU\01 Algorithms\50 MyTask\02 C#\01 FirstItaration\01 FirstItaration\bin\Debug\01 FirstItaration.exe.config
+D:\Андрей\45 BSU\01 Algorithms\50 MyTask\02 C#\01 FirstItaration\01 FirstItaration\bin\Debug\01 FirstItaration.exe
+D:\Андрей\45 BSU\01 Algorithms\50 MyTask\02 C#\01 FirstItaration\01 FirstItaration\bin\Debug\01 FirstItaration.pdb
+D:\Андрей\45 BSU\01 Algorithms\50 MyTask\02 C#\01 FirstItaration\01 FirstItaration\obj\Debug\01 FirstItaration.csproj.AssemblyReference.cache
+D:\Андрей\45 BSU\01 Algorithms\50 MyTask\02 C#\01 FirstItaration\01 FirstItaration\obj\Debug\01 FirstItaration.csproj.SuggestedBindingRedirects.cache
+D:\Андрей\45 BSU\01 Algorithms\50 MyTask\02 C#\01 FirstItaration\01 FirstItaration\obj\Debug\01 FirstItaration.csproj.CoreCompileInputs.cache
+D:\Андрей\45 BSU\01 Algorithms\50 MyTask\02 C#\01 FirstItaration\01 FirstItaration\obj\Debug\01 FirstItaration.exe
+D:\Андрей\45 BSU\01 Algorithms\50 MyTask\02 C#\01 FirstItaration\01 FirstItaration\obj\Debug\01 FirstItaration.pdb
